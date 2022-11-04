@@ -7,7 +7,7 @@ links:
   - label: Twitter
     url: "https://twitter.com/mulderc"
   - label: Mastodon
-    url: "https://xoxo.zone/web/@Mulderc#"
+    url: "https://xoxo.zone/web/Mulderc"
   - label: GitHub
     url: "https://github.com/mulderc"
   - label: Email
