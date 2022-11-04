@@ -1,6 +1,6 @@
 ---
 title: "Cameron Mulder"
-image: "tobi.jpg"
+image: "20220516_UOKnightLibrary_0514.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/mulderc"
@@ -15,6 +15,7 @@ links:
 output:
   postcards::jolla
 ---
- 
+
 Nothing here yet
 
+rmarkdown::render("index.Rmd")\
