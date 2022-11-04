@@ -1,19 +1,20 @@
 ---
-title: "Tobi Burns"
+title: "Cameron Mulder"
 image: "tobi.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/mulderc"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/mulderc"
+  - label: Mastodon
+    url: "https://twitter.com/mulderc"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/mulderc"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:cameron.mulder@icloud.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+Nothing here yet
+
